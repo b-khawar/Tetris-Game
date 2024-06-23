@@ -16,3 +16,5 @@ I created this game in very initial days of my coding life. It can be said that 
 # How to Run
 1. Extract files from the zip files.<br/>
 2. Run the object file.
+
+**Note:** Only zip file will run, Other files are just to showcase the code. 
